@@ -22,7 +22,7 @@
 
 ## 1 - The user has to choose how many rounds he/she wants to play 
 
-![image alt](https://github.com/mohammednasser249/RockPaperScissor-Game/blob/master/images/Rounds.png?raw=true)
+![image alt](images/UserChoice.png)
 
 ## 2 - The user has to choose what to play 
 
