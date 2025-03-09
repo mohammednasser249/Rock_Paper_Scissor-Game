@@ -1,6 +1,0 @@
-﻿  Rock_Scissor_Paper Game.cpp
-C:\Users\Asus\Desktop\Projects\Rock_Scissor_Paper Game\Rock_Scissor_Paper Game.cpp(61,12): warning C4101: 'Choice': unreferenced local variable
-C:\Users\Asus\Desktop\Projects\Rock_Scissor_Paper Game\Rock_Scissor_Paper Game.cpp(310,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\Asus\Desktop\Projects\Rock_Scissor_Paper Game\Rock_Scissor_Paper Game.cpp(99,1): warning C4715: 'GetUserChoiceName': not all control paths return a value
-C:\Users\Asus\Desktop\Projects\Rock_Scissor_Paper Game\Rock_Scissor_Paper Game.cpp(122,1): warning C4715: 'GetComputerChoiceName': not all control paths return a value
-  Rock_Scissor_Paper Game.vcxproj -> C:\Users\Asus\Desktop\Projects\Rock_Scissor_Paper Game\x64\Debug\Rock_Scissor_Paper Game.exe
