@@ -1,0 +1,22 @@
+# Ignore build files
+.exe
+.obj
+.ilk
+.pdb
+.tlog
+.pch
+.idb
+.ipch
+
+# Ignore Visual Studio files
+.vs
+.sdf
+.opensdf
+.VC.db
+.VC.opendb
+.log
+
+# Ignore build directories
+Debug
+Release
+x64
